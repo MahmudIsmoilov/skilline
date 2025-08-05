@@ -1,11 +1,11 @@
 import React from 'react'
-import Navbar from './assets/components/Navbar'
-import Hero from './assets/components/Hero'
-import Logos from './assets/components/logos'
-import Manu from './assets/components/manu'
-import Skilline from './assets/components/Skilline'
-import Main from './assets/components/main'
-import Footer from './assets/components/footer'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import Logos from './components/Logos'
+import Manu from './components/Manu'
+import Skilline from './components/Skilline'
+import Main from './components/Main'
+import Footer from './components/footer'
 const App = () => {
   return (
     <div>
